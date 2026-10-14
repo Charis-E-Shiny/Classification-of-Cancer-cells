@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+# Generated artifacts: recreate with `python -m src.train`
+# (remove the next line if you want to commit the trained model)
+models/*.joblib

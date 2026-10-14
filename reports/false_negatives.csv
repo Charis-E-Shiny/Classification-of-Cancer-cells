@@ -1,0 +1,3 @@
+sample,malignant_probability,most_atypical_features
+73,0.088,"worst texture, mean texture, texture error"
+190,0.274,"compactness error, fractal dimension error, concavity error"

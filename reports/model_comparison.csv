@@ -1,0 +1,4 @@
+model,cv_pr_auc,cv_roc_auc,test_pr_auc,test_roc_auc,threshold_tuned,recall@0.5,precision@0.5,FN@0.5,FP@0.5,recall@tuned,precision@tuned,FN@tuned,FP@tuned
+Logistic Regression,0.9941,0.995,0.9931,0.9954,0.2845,0.9524,0.9756,2,1,0.9524,0.9524,2,2
+Random Forest,0.9878,0.9891,0.9952,0.997,0.2467,0.9048,1.0,4,0,0.9762,0.9111,1,4
+Gradient Boosting,0.989,0.9908,0.992,0.9947,0.0598,0.9048,1.0,4,0,0.9286,0.9512,3,2
