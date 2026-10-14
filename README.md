@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Breast Cancer Classification (Wisconsin Diagnostic)
 
 Binary classification of breast masses as benign or malignant from 30 tabular features, with emphasis on
@@ -65,3 +66,7 @@ counterpart (e.g. a CNN on BreakHis or PathMNIST) to complete a full medical-ima
 
 ## Reproducibility
 Seed 42 throughout. Results were generated with scikit-learn 1.x; small numeric differences across versions are possible.
+=======
+# Wisconsin-Dataset-for-Classification-of-Cancer-cells-
+Using Supervised ML Algorithms and metrics for evaluation, including K - Fold
+>>>>>>> c1058ed5771710cbd506791d3e210512af2d1bd2
